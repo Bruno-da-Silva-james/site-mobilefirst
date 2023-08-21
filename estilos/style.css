@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: rgb(84, 184, 218);
+    padding: 10px;
+}
+
+.ham > span{
+    font-size: 3em;
+}
+
+.menu{
+    background-color: rgb(53, 53, 53);
+    color: white;
+    padding: 10px;
+    height: 88vh;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul > li{
+    font-size: 1.5em;
+    padding: 5px;
+    border: 1px solid gray;
+}
